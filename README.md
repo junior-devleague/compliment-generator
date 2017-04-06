@@ -50,5 +50,9 @@ Use your knowledge of arrays, and functions to generate random insults instantly
   ```
   ex. output = Your face is like a lumpy test !!!!!
   ```
+### Resources
+- Adjectives https://www.keepandshare.com/doc/12894/adjective-list
+- Random words http://members.optusnet.com.au/charles57/Creative/Techniques/random_words.htm
+- Random bodyparts https://www.randomlists.com/random-body-parts
 ### Stretch Goals
-- Think of more words to put inside your arrays to make the insults even better. **Remember PG-13!!!!!!!**
+- Think of more words to put inside your arrays to make the insults even better. **Remember PG-13!!!!!!!** 
