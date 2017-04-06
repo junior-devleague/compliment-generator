@@ -40,7 +40,7 @@ Use your knowledge of arrays, and functions to generate random insults instantly
 - Create an array named **adjectives**, assign it string values such as **gross, huge... use your imagination or refer to links below**
 - Create an array named **randomWord**, assign in string values such as **flying........ again use imagination or refer to links below**
 - Create a variable named **string**,  call your **pickRandomWord function passing through your arrays** to generate a string with output
-  similar to **"Your" + bodyParts + "is like a" + adjective + " " + randomWord + "!!!!!!"**
+  similar to **"Your" + bodyParts + "are like a" + adjective + " " + randomWord + "!!!!!!"** **Make it your own**
 - Your function should return the variable **string**. Hint you should console.log(string) to see the output.
 
 ##### Test your insult function
