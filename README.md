@@ -4,7 +4,7 @@ Can't ever think of a compliment on the fly?? Well today you are tasked with cre
 
 ### Objective
 
-Use your knowledge of arrays, and functions to generate random insults instantly.
+Use your knowledge of arrays, and functions to generate random compliment instantly.
 
 ### Prerequesites
 
@@ -33,7 +33,7 @@ Use your knowledge of arrays, and functions to generate random insults instantly
 - Test your function by invoking it and passing through an array of words. Run your file with node compliment.js. Make sure to console.log() in your function. If written correctly your function should return a random word from the array passed in.
 
 
-#### Step 2 - Create a generate insult function
+#### Step 2 - Create a generate compliment function
 - Create a function called **generateCompliment** that takes no parameters.
 - Create an array named **bodyParts**, assign it string values such as **hair, teeth, ears...**
 - Create an array named **adjectives**, assign it string values such as **beautiful, wonderful... use your imagination or refer to links below**
