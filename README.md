@@ -1,6 +1,6 @@
 # Compliment Generator
 
-Can't ever think of a compliment on the fly?? Well today you are tasked with creating a random compliment application to "burn" your friends on the spot :) 
+Can't ever think of a compliment on the fly?? Well today you are tasked with creating a random compliment application to compliment your friends on the spot :) 
 
 ### Objective
 
@@ -8,13 +8,13 @@ Use your knowledge of arrays, and functions to generate random compliment instan
 
 ### Prerequesites
 
-- Bascic knowledge of functions
+- Basic knowledge of functions
 - Basic knowledge of arrays
 - Knowledge of Math.floor && Math.random
 ### Requirements
 
 - Sublime Text
-- A create mind
+- A creative mind
 ### Upon completing this project, students should understand:
 
 - Functions
@@ -31,7 +31,6 @@ Use your knowledge of arrays, and functions to generate random compliment instan
 #### Part 1: Create a random word function
 - Create a function called **pickRandomWord** that takes one parameter **(word)**. This function should return a random word using Math.floor and Math.random.
 - Test your function by invoking it and passing through an array of words. Run your file with node compliment.js. Make sure to console.log() in your function. If written correctly your function should return a random word from the array passed in.
-
 
 #### Step 2 - Create a generate compliment function
 - Create a function called **generateCompliment** that takes no parameters.
