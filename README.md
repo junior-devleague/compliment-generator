@@ -20,7 +20,7 @@ Use your knowledge of arrays, and functions to generate random compliment instan
 - Functions
 - Arrays 
 - Calling functions within functions
-- Using javascript Math methods
+- Using Javascript Math methods
 
 ### Get started:
 
