@@ -11,10 +11,12 @@ Use your knowledge of arrays, and functions to generate random compliment instan
 - Basic knowledge of functions
 - Basic knowledge of arrays
 - Knowledge of Math.floor && Math.random
+
 ### Requirements
 
 - Sublime Text
 - A creative mind
+
 ### Upon completing this project, students should understand:
 
 - Functions
@@ -52,5 +54,6 @@ Use your knowledge of arrays, and functions to generate random compliment instan
 - Adjectives https://www.keepandshare.com/doc/12894/adjective-list
 - Random words http://members.optusnet.com.au/charles57/Creative/Techniques/random_words.htm
 - Random bodyparts https://www.randomlists.com/random-body-parts
+
 ### Stretch Goals
 - Think of more words to put inside your arrays to make the compliment even better.
